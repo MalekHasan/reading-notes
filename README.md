@@ -49,11 +49,12 @@ Testing is important in software development because it's can avoid unexpected e
 
 ## CI/CD
 1. ### What are three benefits of Continuous Integration?
-
-2. ### What is the difference between Continuos Delivery and Continuous Deployment?
 - Early Bug Detection 
 - Faster Feedback Loop
 - Avoid merge hell
+
+2. ### What is the difference between Continuos Delivery and Continuous Deployment?
+
 **Continuos Delivery it's a process to make sure that our work or code is ready to be deployed ,however ,Continuous Deployment it's a process to make sure that every change that passes through the automation test is deplyed directly to production**
 
 3. ### Explain how GitHub fits into this process assuming the listener comes from a non-technical background
