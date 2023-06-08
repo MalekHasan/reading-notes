@@ -14,6 +14,8 @@ _const a= 1; =>O(1)_
 _function(arr){  
 let myArr=arr; =>O(n)  
 }_
+![BigO notation](img/big-o-notation.jpg)
 ## LinkedList:
  LinkedList it's a kind of Data structures which is a set of Node and each node consist of value(data) and next(pointer) and this pointer refer to the next element in this LinkedList ex:  
 _music Playlist each music point to the next music in the list._ 
+![LinkedList](img/Singlelinkedlist.png)
