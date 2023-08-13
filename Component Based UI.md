@@ -23,7 +23,8 @@
 ***You can respond to events by declaring event handler functions like(onClick) inside your components.React will call your event handler when the user clicks like on button.***
 
 7. What word indicates that a React component manages data with a Hook?
-***Functions starting with use are called Hooks. ***
+
+***Functions starting with use are called Hooks.***
 
 8. How can two react components share data?
 ***There is alot of way that react components can share data eact toghether using props, context API ,redux or etc...***
