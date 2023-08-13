@@ -14,13 +14,13 @@
 3. What is JSX and why do we use it?
  ***It's a markup syntax extension to Javascript so the code will look like HTML but it's JS,most React projects use JSX for its convenience.JSX is stricter than HTML.***
 4. Describe the process of embedding JavaScript expressions in JSX.
-***JSX is stricter than HTML. You have to close tags like <br />. Your component also can’t return multiple JSX tags. You have to wrap them into a shared parent, like a <div>...</div> or an empty <>...</> wrapper.***
+***JSX is stricter than HTML. You have to close tags like ```<br />```. Your component also can’t return multiple JSX tags. You have to wrap them into a shared parent, like a ```<div>...</div>``` or an empty ```<>...</>``` wrapper.***
 
 5. Does React or JSX have any special features for iteration or conditional logic?
-***Yes,You will rely on JavaScript features like for loop and the array map() function to render lists of components. Also ,You will rely on JavaScript features like conditional logic ( && || ? : !..etc), there is no special syntax for writing conditions. Instead, you’ll use the same techniques as you use when writing regular JavaScript code.***
+***Yes,You will rely on JavaScript features like for loop and the array ```map()``` function to render lists of components. Also ,You will rely on JavaScript features like conditional logic ( ```&& || ? : !``` ..etc), there is no special syntax for writing conditions. Instead, you’ll use the same techniques as you use when writing regular JavaScript code.***
 
 6. How does React know to respond to a user’s inputs?
-***You can respond to events by declaring event handler functions like(onClick) inside your components.React will call your event handler when the user clicks like on button.***
+***You can respond to events by declaring event handler functions like(```onClick```) inside your components.React will call your event handler when the user clicks like on button.***
 
 7. What word indicates that a React component manages data with a Hook?
 
