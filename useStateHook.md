@@ -14,8 +14,7 @@
 
 2. What is the argument to the useState hook, and what are the two parts of its return array?  
 
-The only argument to ```useState``` is the initial value of your state variable.The state variable (index) with the value you stored.
-The state setter function (setIndex) which can update the state variable and trigger React to render the component again.
+***The only argument to ```useState``` is the initial value of your state variable.The state variable (index) with the value you stored.The state setter function (setIndex) which can update the state variable and trigger React to render the component again.***
 
 3. How can Component A access state from Component B?  
 
