@@ -13,5 +13,5 @@
 ***The reduce() operation lets you take an array and “accumulate” a single value out of many***  
 
 4. When should you switch from useState to useReducer?  
- 
-***useReducer is often chosen over useState when you need to manage more complex state or when your state updates depend on previous states and actions. It's about choosing the right tool for the job based on the complexity of your state management needs. ***
+
+***useReducer is often chosen over useState when you need to manage more complex state or when your state updates depend on previous states and actions. It's about choosing the right tool for the job based on the complexity of your state management needs.***
