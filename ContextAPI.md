@@ -22,8 +22,8 @@
 
 2. What is one technique to try before useContext?  
 
- passing props
+ ***passing props***
 
 3. What hook complements useContext for complex applications?  
 
-useReducer
+***```useReducer()```***
